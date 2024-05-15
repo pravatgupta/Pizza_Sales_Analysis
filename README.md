@@ -2,19 +2,19 @@
 Pizza Sales Project using SQL: This project is made for managing pizza sales orders and provides valuable insights. SQL is used to store and retrieve information related to customers, orders, revenue generation, operational efficiency, menu items, and sales transactions.
 
 
-Skills
+# Skills
 
 SQL MySQL Database Data Cleaning Data Modeling Query Optimization
 
 
-FEATURES
+# FEATURES
 
 Detailed examination of pizza sales trends and revenue metrics.
 Actionable insights for menu optimization and marketing strategies.
  
-INSIGHTS
- 
-PIZZA SALES TRENDS
+**INSIGHTS**
+
+# PIZZA SALES TRENDS
  
 
 Total Orders: Understanding the total number of orders placed helps in managing inventory effectively 
@@ -33,7 +33,7 @@ Top 5 Pizza Types: Listing the top 5 most ordered pizza types along with their q
                    optimization and marketing efforts.
                    
  
-OPERATIONAL INSIGHTS
+# OPERATIONAL INSIGHTS
  
 Category-Wise Pizza Distribution: Understanding the distribution of pizzas by category enables targeted menu 
                                   optimization and marketing strategies.
